@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;gradle/src/main/resources/static/js/scriptTest.js&apos; to &apos;scriptTest1.js&apos;" description="Rename resource &apos;scriptTest.js&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/static/js/scriptTest.js" name="scriptTest1.js" stamp="1675919088265" updateReferences="true"/>
+</session>
